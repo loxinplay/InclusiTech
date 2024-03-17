@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "902762669828",
+    "project_id": "messengercohort",
+    "storage_bucket": "messengercohort.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902762669828:android:21acf0d4393fa11eee1251",
+        "android_client_info": {
+          "package_name": "com.example.cohort_messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgvmhuxKROusCHF8KY6o5PrwVJgmTFzd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
