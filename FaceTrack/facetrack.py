@@ -5,7 +5,7 @@ import time
 
 mp_face_mesh = mp.solutions.face_mesh
 face_mesh = mp_face_mesh.FaceMesh(min_detection_confidence=0.5, min_tracking_confidence=0.5)
-cap = cv2.VideoCapture('video1.MOV')
+cap = cv2.VideoCapture(0)
 
 abc_timer = None
 abc_duration = 2
